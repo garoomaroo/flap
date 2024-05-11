@@ -69,8 +69,8 @@ main()
 	while (!WindowShouldClose()) {
 		deltaTime = GetFrameTime();
 		updateBird(&player, deltaTime);
-		updatePipe(&p1, deltaTime);
-		updatePipe(&p2, deltaTime);
+		updatePipe(&p1, 		deltaTime);
+		updatePipe(&p2, 		deltaTime);
 
 		BeginDrawing();
 			ClearBackground(BG_COLOR);
