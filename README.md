@@ -1,3 +1,5 @@
+Don't use this, I'm on Codeberg now: [https://codeberg.org/blopes](url)
+
 # flap
 Flappy Bird clone written in C with Raylib, in a neat 180 lines of code
 
